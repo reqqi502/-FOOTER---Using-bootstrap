@@ -1,0 +1,95 @@
+.container{
+    color:white;
+    }
+    .row{
+      height:60vh;
+      background-color:black;
+      padding:70px
+
+    }
+    .container >.row >.col-lg-3 > h1{
+      font-size:30px;
+      font-family:cursive
+    }
+    .container >.row >.col-lg-2 > h1{
+      font-size:30px;
+      font-family:cursive
+    }
+    .container >.row >.col-lg-4 > h1{
+        font-size:30px;
+      font-family:cursive
+    }
+    .col-lg-12 > .info{
+      float: right;
+       padding: 10px 30px;
+        background-color:#28a745;
+        margin-right: 100px;
+        padding: 10px 197px;
+        margin-top: -70px;
+       border-radius: 10px 50px 50px 10px
+    }
+    .col-lg-12 > .info >h2{
+      font-size:20px;
+      display:inline;
+      margin:0 12px;
+      font-family:Optima
+
+    }
+    .col-lg-2 > input{
+      width:30vh;
+      padding: 5px 10px;
+
+    }
+    .col-lg-2 > button{
+      width:20vh;
+      padding:5px;
+      border-radius: 10px 50px 50px 10px;
+
+
+    }
+    .col-lg-2 > button:hover{
+      background-color:white;
+      color:#28a745;
+      border:5px solid #28a745
+
+    }
+    .col-lg-3 >.list >li{
+      font-size:15px;
+      list-style: square
+
+    }
+    .col-lg-3 >.list >li:hover{
+      color:#28a745;
+      cursor:pointer;
+      list-style:inside
+      
+    }
+    .col-lg-3 >.list-menu >li{
+      font-size:15px;
+      list-style: square
+
+    }
+    .col-lg-3 >.list-menu >li:hover{
+      color:#28a745;
+      cursor:pointer;
+      list-style:inside
+
+    }
+    .col-lg-12 > h3{
+       font-size:15px;
+       font-family:Optima;
+       margin:auto;
+       margin-top:20px;
+       position:absolute;
+       margin-left:80vh      
+    }
+    hr{
+      width:50%;
+      margin-top:65px;
+       border-top: 3px solid white
+
+      }
+      .col-lg-12 {
+        margin-bottom: 10px
+
+      }
